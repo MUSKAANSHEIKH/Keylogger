@@ -8,11 +8,11 @@ The **Keylogger and Anti-Keylogger System** is a cybersecurity tool designed to 
 This project is intended for **ethical cybersecurity research and educational purposes only**.  
 
 ##  Features  
-- ** Keylogger** – Records keystrokes and logs them into a file for analysis.  
-- ** Anti-Keylogger** – Detects suspicious files based on predefined patterns and alerts the user.  
-- ** File Scanning** – Identifies keylogging activity by analyzing file extensions, names, and sizes.  
-- ** User Alerts** – Provides real-time notifications for suspicious files.  
-- ** GUI Interface** – Uses Tkinter for an easy-to-use graphical interface.  
+- **Keylogger** – Records keystrokes and logs them into a file for analysis.  
+- **Anti-Keylogger** – Detects suspicious files based on predefined patterns and alerts the user.  
+- **File Scanning** – Identifies keylogging activity by analyzing file extensions, names, and sizes.  
+- **User Alerts** – Provides real-time notifications for suspicious files.  
+- **GUI Interface** – Uses Tkinter for an easy-to-use graphical interface.  
 
 ##  Tech Stack  
 - **Programming Language:** Python  
